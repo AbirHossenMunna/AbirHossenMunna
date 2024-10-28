@@ -12,7 +12,7 @@
 
 - 📫 You can reach me at: **abirhossen422@gmail.com**
 
-Favourite Quote: **"Stop acting so small.You are the entire universe in ecstatic motion."**
+Favourite Quote: **"Embrace your boundless potential; you are not just a drop in the ocean but the entire universe in vibrant motion.."**
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/md-abir-hossen-munna-832538161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abir_Hossen_Munna" height="30" width="40" /></a>
