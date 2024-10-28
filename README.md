@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2686B0&center=true&vCenter=true&width=450&lines=Software+Quality+%26+Automation+Engineer.)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/4da58750-f4b7-4cf6-976c-235b21562088" alt="image" width="270" img align="right"/>
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" img align="right" />
 
 - 🌱 I’m currently learning **Automation testing frameworks,Python,CI/CD pipeline.**
